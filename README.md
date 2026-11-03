@@ -164,6 +164,7 @@ Projeto desenvolvido para o Challenge FIAP 2026 em parceria com a SoulUp.
 ---
 
 ## Contato
+  - GitHub da equipe: https://github.com/enzoleiva2008-blip
 - E-mail: contato@pointway.com.br
 - Equipe Pointway · FIAP · Av. Paulista, 1106 · São Paulo, SP
 - Ou pela página **Contato** do site.
