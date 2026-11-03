@@ -17,9 +17,9 @@ consome a **API RESTful em Java (Spring Boot)** desenvolvida na disciplina de Do
 
 | Item | Link |
 |---|---|
-| Repositório GitHub | (https://github.com/enzoleiva2008-blip/pointway-front) |
+| Repositório GitHub | https://github.com/enzoleiva2008-blip/pointway-front |
 | Vídeo no YouTube | https://youtu.be/SEU-VIDEO |
-| Site publicado na Vercel | (https://pointway-front.vercel.app)|
+| Site publicado na Vercel | https://pointway-front.vercel.app|
 | API Java publicada (Render) | https://pointway-api.onrender.com |
 | Repositório da API Java | https://github.com/enzoleiva2008-blip/pointway-api |
 
