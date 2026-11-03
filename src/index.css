@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+@theme {
+  --color-marca-50: #EEF7F1;
+  --color-marca-100: #DFF0E6;
+  --color-marca-200: #B9E0C9;
+  --color-marca-500: #2E9670;
+  --color-marca-600: #1F7A5C;
+  --color-marca-700: #17604A;
+  --color-marca-900: #0F3D2C;
+  --color-tinta: #122019;
+  --color-apoio: #5B6B62;
+  --color-sol: #F5B841;
+  --font-display: "Fraunces", Georgia, serif;
+  --font-sans: "Work Sans", system-ui, sans-serif;
+}
+
+@layer base {
+  body {
+    @apply bg-marca-50 text-tinta font-sans antialiased;
+  }
+  h1, h2, h3 {
+    @apply font-display;
+  }
+}

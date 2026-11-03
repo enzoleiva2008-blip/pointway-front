@@ -1,0 +1,44 @@
+import type { Integrante } from '../types/site'
+
+/**
+ * Integrantes da equipe Pointway.
+ * TROCAR: foto (coloque a foto em public/integrantes/RM.jpg), github e linkedin de cada um.
+ */
+export const INTEGRANTES: Integrante[] = [
+  {
+    rm: '572369',
+    nome: 'Kauã Fiuza',
+    turma: '1TDSPO',
+    funcao: 'Desenvolvimento',
+    foto: '/integrantes/572369.svg',
+    github: 'https://github.com/',
+    linkedin: 'https://www.linkedin.com/',
+  },
+  {
+    rm: '572499',
+    nome: 'Lucas Almeida',
+    turma: '1TDSPO',
+    funcao: 'Desenvolvimento',
+    foto: '/integrantes/572499.svg',
+    github: 'https://github.com/',
+    linkedin: 'https://www.linkedin.com/',
+  },
+  {
+    rm: '568877',
+    nome: 'Enzo Leiva',
+    turma: '1TDSPO',
+    funcao: 'Desenvolvimento',
+    foto: '/integrantes/568877.svg',
+    github: 'https://github.com/enzoleiva2008-blip',
+    linkedin: 'https://www.linkedin.com/',
+  },
+  {
+    rm: '570878',
+    nome: 'Matheus Segura',
+    turma: '1TDSPO',
+    funcao: 'Desenvolvimento',
+    foto: '/integrantes/570878.svg',
+    github: 'https://github.com/',
+    linkedin: 'https://www.linkedin.com/',
+  },
+]
