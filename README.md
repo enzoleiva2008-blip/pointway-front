@@ -48,8 +48,8 @@ npm run preview      # testa localmente a versão gerada em /dist
 npm run lint         # verifica o código com o ESLint
 ```
 
-Por padrão o site usa a API publicada. Para apontar para outra (ex.: a API rodando na sua máquina), copie
-`.env.example` para `.env` e altere:
+Por padrão o site usa a API publicada. Para apontar para outra (ex.: a API rodando na sua máquina), crie um
+arquivo `.env` na raiz do projeto com:
 
 ```
 VITE_API_URL=http://localhost:8080
@@ -153,7 +153,6 @@ pointway-front/
 │   ├── App.tsx
 │   ├── main.tsx
 │   └── index.css             # Tailwind + cores da marca
-├── .env.example
 ├── index.html
 ├── package.json
 ├── tsconfig*.json
