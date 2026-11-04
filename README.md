@@ -166,7 +166,7 @@ pointway-front/
 
 | Foto | Nome | RM | Turma | GitHub | LinkedIn |
 |---|---|---|---|---|---|
-| <img src="public/integrantes/572369.svg" width="60"> | Kauã Fiuza | 572369 | 1TDSPO | [GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/) |
+| <img src="public/integrantes/572369.svg" width="60"> | Kauã Fiuza | 572369 | 1TDSPO | [GitHub](https://github.com/KauaznX) | [LinkedIn](https://www.linkedin.com/in/kau%C3%A3-fiuza-94a039313/) |
 | <img src="public/integrantes/572499.svg" width="60"> | Lucas Almeida | 572499 | 1TDSPO | [GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/) |
 | <img src="public/integrantes/568877.svg" width="60"> | Enzo Leiva | 568877 | 1TDSPO | [GitHub](https://github.com/enzoleiva2008-blip) | [LinkedIn](https://www.linkedin.com/in/enzo-leiva-varrichio-88ba273a1/) |
 | <img src="public/integrantes/570878.svg" width="60"> | Matheus Segura | 570878 | 1TDSPO | [GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/) |
