@@ -21,7 +21,7 @@ export const INTEGRANTES: Integrante[] = [
     funcao: 'Dev',
     foto: '/integrantes/572499.svg',
     github: 'www.linkedin.com/in/lucasalmeidaoliva',
-    linkedin: 'https://github.com/LucasAlmeidaOliveira',
+    linkedin: 'www.linkedin.com/in/lucasalmeidaoliva',
   },
   {
     rm: '568877',
