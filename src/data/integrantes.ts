@@ -38,7 +38,7 @@ export const INTEGRANTES: Integrante[] = [
     turma: '1TDSPO',
     funcao: 'Desenvolvimento',
     foto: '/integrantes/570878.svg',
-    github: 'https://github.com/',
-    linkedin: 'https://www.linkedin.com/',
+    github: 'https://github.com/MatheuSegura',
+    linkedin: 'https://www.linkedin.com/in/matheussegura/',
   },
 ]
