@@ -44,6 +44,8 @@ Pré-requisito: **Node.js 20+**.
 npm install          # instala as dependências
 npm run dev          # abre em http://localhost:5173
 npm run build        # gera a versão de produção em /dist
+npm run preview      # testa localmente a versão gerada em /dist
+npm run lint         # verifica o código com o ESLint
 ```
 
 Por padrão o site usa a API publicada. Para apontar para outra (ex.: a API rodando na sua máquina), copie
