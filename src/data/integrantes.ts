@@ -9,7 +9,7 @@ export const INTEGRANTES: Integrante[] = [
     rm: '572369',
     nome: 'Kauã Fiuza',
     turma: '1TDSPO',
-    funcao: 'Desenvolvedor',
+    funcao: 'Dev',
     foto: '/integrantes/572369.svg',
     github: 'https://github.com/',
     linkedin: 'https://www.linkedin.com/',
