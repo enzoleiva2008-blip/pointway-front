@@ -12,7 +12,7 @@ export const INTEGRANTES: Integrante[] = [
     funcao: 'Dev',
     foto: '/integrantes/572369.svg',
     github: 'https://github.com/KauaznX',
-    linkedin: 'https://www.linkedin.com/',
+    linkedin: 'https://www.linkedin.com/in/kau%C3%A3-fiuza-94a039313/',
   },
   {
     rm: '572499',
@@ -30,7 +30,7 @@ export const INTEGRANTES: Integrante[] = [
     funcao: 'Dev',
     foto: '/integrantes/568877.svg',
     github: 'https://github.com/enzoleiva2008-blip',
-    linkedin: 'https://www.linkedin.com/',
+    linkedin: 'https://www.linkedin.com/in/enzo-leiva-varrichio-88ba273a1/',
   },
   {
     rm: '570878',
