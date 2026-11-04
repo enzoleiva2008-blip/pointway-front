@@ -13,6 +13,17 @@ consome a **API RESTful em Java (Spring Boot)** desenvolvida na disciplina de Do
 
 ---
 
+## Sumário
+- [Como usar](#como-usar)
+- [Imagens](#imagens)
+- [Tecnologias utilizadas](#tecnologias-utilizadas)
+- [Páginas e rotas](#páginas-e-rotas)
+- [Estrutura de pastas](#estrutura-de-pastas)
+- [Autores e créditos](#autores-e-créditos)
+- [Contato](#contato)
+
+---
+
 ## Como usar
 
 | Item | Link |
